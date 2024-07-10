@@ -1,0 +1,1 @@
+{"id":"noauth","name":"NoAuth","version":"1.0-SNAPSHOT","description":"Plugin for no password auth","url":"https://github.com/salivo","authors":["salivo"],"dependencies":[],"main":"salivo.dev.noauth.NoAuth"}

@@ -1,0 +1,12 @@
+salivo/dev/noauth/DiscordBot.class
+salivo/dev/noauth/DataBase.class
+salivo/dev/noauth/AdminCommand.class
+velocity-plugin.json
+salivo/dev/noauth/RegCommand.class
+salivo/dev/noauth/NoAuth.class
+salivo/dev/noauth/PluginListener.class
+salivo/dev/noauth/Configurator.class
+salivo/dev/noauth/Configurator$1.class
+salivo/dev/noauth/GenerateCode.class
+salivo/dev/noauth/InfoSender.class
+salivo/dev/noauth/PlayersInRegister.class
